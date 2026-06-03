@@ -77,7 +77,7 @@ The following cleaning steps were performed:
 
 Products with an MRP value of zero were identified and removed.
 
-### Standardized Pricing
+### Standardised Pricing
 
 Mrp and selling prices were originally stored in paise (₹). Values were standardised to rupees for clarity - similar to converting pence to pounds.
 
@@ -184,7 +184,7 @@ The outputs generated from each analysis query are available in the `results/` d
 
 ### 6. Price-Per-Gram Analysis
 
-* Standardizing product prices using a price-per-gram metric enabled fair comparison across different package sizes.
+* Standardising product prices using a price-per-gram metric enabled fair comparison across different package sizes.
 * Significant variation in price efficiency was observed among products within the same category.
 * The analysis highlighted products offering better value for money and identified premium-priced products with higher unit costs.
 
@@ -192,7 +192,7 @@ The outputs generated from each analysis query are available in the `results/` d
 
 * Products were segmented into **Low**, **Medium**, and **Bulk** weight categories based on package weight.
 * The majority of products belonged to the **Low** weight segment.
-* Bulk products represented only a small proportion of the catalog.
+* Bulk products represented only a small proportion of the catalogue.
 * Weight segmentation provides useful insights for inventory planning, storage allocation, and logistics management.
 
 ### 8. Inventory Weight Distribution by Category

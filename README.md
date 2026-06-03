@@ -79,12 +79,13 @@ Products with an MRP value of zero were identified and removed.
 
 ### Standardized Pricing
 
-MRP and selling prices were originally stored in paise (₹). Values were standardised to rupees for clarity — similar to converting pence to pounds.
+Mrp and selling prices were originally stored in paise (₹). Values were standardised to rupees for clarity - similar to converting pence to pounds.
+
 ---
 
 ## Business Questions
 
-The following business questions were explored:
+The following business questions were explored: 
 
 ### Q1. Which products have the highest discount percentages?
 
